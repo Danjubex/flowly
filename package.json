@@ -1,0 +1,24 @@
+{
+  "name": "flowly",
+  "version": "1.0.0",
+  "description": "Flowly is a task and activity flow manager through BPMN 2.0 notation ",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danjubex/flowly.git"
+  },
+  "keywords": [
+    "flow;diagram;fluig;heflo"
+  ],
+  "author": "Danillo Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danjubex/flowly/issues"
+  },
+  "homepage": "https://github.com/Danjubex/flowly#readme"
+}
